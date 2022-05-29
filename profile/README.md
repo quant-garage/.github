@@ -12,4 +12,9 @@ and Linux systems administration out of a dream office located in a downtown Ott
 Mathematical modelling, econometrics, and statistics is our passion.
 Python and Linux are our tools of choice, although there isn't much else we have not tried.
 
+
+One of the things that we enjoy most is introducing
+clients to the  methods, logic, and applications of economics models through Monte Carlo simulations. A solid understanding of the usefulness of mathematical economics has forever changed the way
+we view the social world.  In fact, it often trumps the more limited predictive tools offered by machine learning and artificial intelligence by offering surprising insights into valuable hidden features of data assets.
+
 [Contact us](mailto:info@quantgarage.io) to start a coversation.
